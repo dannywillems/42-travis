@@ -2,6 +2,11 @@
 
 Travis files for 42 projects
 
+* [42 Travis](#42-travis)
+  * [How to use ?](#how-to-use-)
+  * [Libft (libft)](#libft-libft)
+  * [Get next line (gnl)](#get-next-line-gnl)
+
 ## How to use ?
 
 This repository contains a travis file for 42 projects using different 42 test
